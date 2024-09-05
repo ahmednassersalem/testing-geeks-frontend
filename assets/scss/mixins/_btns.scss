@@ -1,0 +1,9 @@
+.share-button {
+    height: 45px !important;
+    display: flex !important;
+    align-items: center;
+    padding: 5px 8px !important;
+    .share-button__text {
+        font-size: 16px !important;
+    }
+}

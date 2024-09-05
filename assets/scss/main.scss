@@ -1,0 +1,10 @@
+/* Settings contain font, colors definitions, etc. */
+@import "./shared/colors";
+@import "./shared/settings";
+
+/* Mixins */
+@import "./mixins/btns";
+@import "./mixins/inputs";
+
+/* Components specific UI components "header, footer, etc." */
+@import "./components/TheCard";
